@@ -16,5 +16,15 @@
 ## Fluxo
 Login → Dashboard → Gerenciamento de tarefas
 
-## Protótipo
-Protótipo gerado utilizando IA (Stitch) para validação rápida da interface antes da implementação.
+
+## Protótipo (Stitch)
+
+Protótipos gerados utilizando IA (Stitch) para validação rápida da interface antes da implementação.
+
+### Tela de Login
+![Login](./prototype/login.png)
+
+### Dashboard
+![Dashboard](./prototype/dashboard.png)
+
+Os protótipos serviram como base para a implementação no frontend com Next.js.
