@@ -15,3 +15,6 @@
 
 ## Fluxo
 Login → Dashboard → Gerenciamento de tarefas
+
+## Protótipo
+Protótipo gerado utilizando IA (Stitch) para validação rápida da interface antes da implementação.
